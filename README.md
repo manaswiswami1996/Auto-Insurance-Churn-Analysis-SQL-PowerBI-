@@ -1,5 +1,5 @@
 # Auto Insurance-Churn-Analysis(PowerBI)
-The objective of this project is to identify the main factors affecting customer churn and provide insights to enhance customer retention in auto-insurance company. It analyses patterns and trends in customer demographics and behavior to identify high-risk churn segments and guide business strategy.
+(Work-in-progress) The objective of this project is to identify the main factors affecting customer churn and provide insights to enhance customer retention in auto-insurance company. It analyses patterns and trends in customer demographics and behavior to identify high-risk churn segments and guide business strategy.
 # Dataset Description
 The dataset used in the project has been taken from <https://www.kaggle.com/datasets/merishnasuwal/auto-insurance-churn-analysis-dataset?select=termination.csv>. The provided dataset is relational and consists of four distinct data files.
 
